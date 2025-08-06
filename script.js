@@ -1,3 +1,1 @@
-function addToCart(product) {
-  alert(`¡${product} agregada al carrito!`);
-}
+document.addEventListener('contextmenu', event => event.preventDefault());
